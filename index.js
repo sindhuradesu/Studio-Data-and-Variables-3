@@ -56,7 +56,7 @@ Time: 10:05:34 AM
 
 // Declare and initialize the 12 variables here:
 
-console.log("__________");
+console.log("hello world");
 
 
 
